@@ -1,4 +1,5 @@
-;;; lbdb.el - Little Brother's Database interface.
+;;; lbdb.el --- Little Brother's Database interface
+
 ;; Copyright 2000,2001 by Dave Pearson <davep@davep.org>
 ;; $Revision: 1.10 $
 
